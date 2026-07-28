@@ -4,7 +4,6 @@ Individual-simulation code and input data for:
 
 > **Cost-Effectiveness of Gene Therapy in Hemophilia B: A Lifetime Microsimulation
 > Analysis from the Chinese Perspective**
-> Li Y, Gu C, Xiao X, Zhang L, Xie S.
 
 The economic model comprises two layers. A weekly semi-Markov cohort model,
 implemented as a macro-enabled Excel workbook, accumulates costs and
