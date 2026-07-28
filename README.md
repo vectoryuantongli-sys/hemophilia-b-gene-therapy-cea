@@ -203,13 +203,6 @@ simulation loop makes subsequent runs reproducible.
   dalnacogene ponparvovec, which are not ours to distribute; requests should be
   directed to the trial sponsor.
 
-## A note on language
-
-All code comments, column names, sheet names and file names in this repository
-are in English. The only exception is the `vba/` directory: those macros
-reference worksheet names inside the Excel model workbook, which are in
-Chinese, and renaming them would stop the macros running against the workbook.
-The names are reproduced verbatim and translated in the header of each file.
 
 ## Licence
 
