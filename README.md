@@ -108,7 +108,7 @@ For each arm (`GEN`, `Prophy`, `OD`):
 | `<arm>_replacement_and_damage.xlsx` | `Replacement propensity`, `Population counts`, `Replacements per patient` |
 | `<arm>_cycle_counts.xlsx` | `Population counts` (same table, exported separately for merging) |
 | `<arm>_joint_damage_ratios.xlsx` | `Severe joint damage by state`, `Patient final status` |
-| `all_arms_cycle_counts_merged.xlsx` | `Population counts, all arms`, `New replacements by arm`, `Joint bleeds by arm`, plus the summary and plot tables used for the supplementary figures |
+| `all_arms_cycle_counts_merged.xlsx` | `Population counts, all arms`, `New replacements by arm`, `Joint bleeds by arm` |
 
 ### Data dictionary
 
